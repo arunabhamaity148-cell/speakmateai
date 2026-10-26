@@ -1,0 +1,6 @@
+{
+  "name": "SpeakMate AI",
+  "description": "Speak English. Improve Every Day. Personal English speaking coach with speech recognition, spoken AI replies, and Bengali grammar explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
